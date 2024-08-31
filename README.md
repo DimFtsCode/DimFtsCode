@@ -82,14 +82,16 @@ You can click the Preview link to take a look at your changes.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
 </p>
-# 🎓 Education
+# 🎓 Education:
 <p>
     <a href="https://hafa.haf.gr/en/" target="_blank" rel="noreferrer">
       <img src="https://github.com/DimFtsCode/DimFtsCode/blob/main/images/SI.png" alt="Hellenic Air Force Academy" width="40" height="40"/>
   </a>
+  Bachelor's Degree in Aeronautical Sciences
   <br>
   <a href="https://www.di.uoa.gr/" target="_blank" rel="noreferrer">
     <img src="https://github.com/DimFtsCode/DimFtsCode/blob/main/images/Dit.png" alt="Barchelor Degree in Department Of Informatics and Telecommunications Univercity OF Athens" width="40" height="40"/>
   </a>
+  Bachelor's Degree in Computer Sciences
 </p>
 
