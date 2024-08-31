@@ -90,10 +90,11 @@ You can click the Preview link to take a look at your changes.
     </a>
     <strong>Bachelor's Degree in Aeronautical Sciences</strong>
     <br><br>
-    <a href="https://www.di.uoa.gr/" target="_blank" rel="noreferrer">
-      <img src="https://github.com/DimFtsCode/DimFtsCode/blob/main/images/Dit.png" alt="Barchelor Degree in Department Of Informatics and Telecommunications Univercity OF Athens" width="40" height="40" style="vertical-align: middle; margin-right: 10px;"/>
+    <a href="https://www.di.uoa.gr/en" target="_blank" rel="noreferrer">
+      <img src="https://github.com/DimFtsCode/DimFtsCode/blob/main/images/Dit.png" alt="Bachelor Degree in Department Of Informatics and Telecommunications University OF Athens" width="40" height="40" style="vertical-align: middle; margin-right: 10px;"/>
     </a>
     <strong>Bachelor's Degree in Computer Sciences</strong>
 </p>
+
 
 
