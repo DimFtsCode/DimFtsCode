@@ -85,7 +85,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Assembly_language_icon.png" alt="Assembly" width="40" height="40"/>
+    <img src="https://github.com/DimFtsCode/DimFtsCode/blob/main/images/assembly.png" alt="Assembly" width="40" height="40"/>
   </a>
 </p>
 
