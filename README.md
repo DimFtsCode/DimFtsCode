@@ -82,3 +82,9 @@ You can click the Preview link to take a look at your changes.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
 </p>
+# 🎓 Education
+<p>
+  <a href="https://www.di.uoa.gr/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/University_of_Athens_seal.svg/1200px-University_of_Athens_seal.svg.png" alt="UoA" width="40" height="40"/>
+  </a>
+</p>
