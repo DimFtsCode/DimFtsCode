@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AI interesting projects
 - 📫 How to reach me: <a href="mailto:d_fotopoulos80@yahoo.com">Here</a>
 - 😄 Pronouns: <strong>He/Him</strong>
-- ⚡ Fun fact: I love coding and hiking!
+- ⚡ Fun fact: I love coding and swimming!
 
 <!---
 DimFtsCode/DimFtsCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
