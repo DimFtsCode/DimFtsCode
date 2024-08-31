@@ -85,11 +85,11 @@ You can click the Preview link to take a look at your changes.
 # 🎓 Education
 <p>
     <a href="https://hafa.haf.gr/en/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Hellenic_Air_Force_Emblem.svg/1200px-Hellenic_Air_Force_Emblem.svg.png" alt="Hellenic Air Force Academy" width="40" height="40"/>
+      <img src="https://github.com/DimFtsCode/DimFtsCode/blob/main/images/SI.png" alt="Hellenic Air Force Academy" width="40" height="40"/>
   </a>
   <br>
   <a href="https://www.di.uoa.gr/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/University_of_Athens_seal.svg/1200px-University_of_Athens_seal.svg.png" alt="Barchelor Degree in Department Of Informatics and Telecommunications Univercity OF Athens" width="40" height="40"/>
+    <img src="https://github.com/DimFtsCode/DimFtsCode/blob/main/images/Dit.png" alt="Barchelor Degree in Department Of Informatics and Telecommunications Univercity OF Athens" width="40" height="40"/>
   </a>
 </p>
 
