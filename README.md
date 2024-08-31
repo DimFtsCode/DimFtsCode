@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <strong>@DimFtsCode</strong>
+- 👋 Hi, I’m <strong>Dimitris</strong>
 - 👀 I’m interested in <em>software development, artificial intelligence, and open-source contributions</em>
 - 🌱 I’m currently learning <span style="color:green;">new programming languages and advanced algorithms</span>
 - 💞️ I’m looking to collaborate on <a href="https://github.com/DimFtsCode?tab=repositories">interesting projects</a>
