@@ -103,6 +103,5 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 # :bar_chart: Statistics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimFtsCode&layout=compact&theme=blue-green&hide=css,html,php) &nbsp; &nbsp; ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DimFtsCode&show_icons=true&theme=radical)
- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimFtsCode&layout=compact&theme=blue-green&hide=css,html,php) &nbsp; &nbsp;
 
