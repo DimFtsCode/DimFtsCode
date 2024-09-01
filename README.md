@@ -102,5 +102,6 @@ You can click the Preview link to take a look at your changes.
     <strong>Bachelor's Degree in Computer Sciences</strong>
 </p>
 
-
+## :bar_chart: Statistics
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelos-Tsitsoli&layout=compact&theme=blue-green) &nbsp; &nbsp; ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Angelos-Tsitsoli&show_icons=true&theme=radical)
 
