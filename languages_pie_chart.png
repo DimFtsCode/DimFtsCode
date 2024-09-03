@@ -1,0 +1,19 @@
+import matplotlib.pyplot as plt
+
+# Παραδείγματα δεδομένων γλωσσών (σε ποσοστά)
+languages = ['Python', 'JavaScript', 'Jupyter Notebook', 'C++', 'Java']
+percentages = [35, 25, 30, 5, 5]  # Αρχικά ποσοστά
+
+# Προσαρμογή της Jupyter Notebook στο 10% της πραγματικής της τιμής
+adjusted_percentages = [p if lang != 'Jupyter Notebook' else p * 0.1 for p, lang in zip(percentages, languages)]
+
+# Κανονικοποίηση των ποσοστών έτσι ώστε να προσθέτουν 100%
+total = sum(adjusted_percentages)
+adjusted_percentages = [p / total * 100 for p in adjusted_percentages]
+
+# Δημιουργία του διαγράμματος πίτας
+plt.figure(figsize=(8, 8))
+plt.pie(adjusted_percentages, labels=languages, autopct='%1.1f%%', startangle=140)
+plt.title('Programming Languages Usage')
+plt.savefig('languages_pie_chart.png')
+plt.show()
