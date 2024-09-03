@@ -103,5 +103,5 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 # :bar_chart: Statistics
-![Languages Pie Chart](https://github.com/DimFtsCode/DimFtsCode/raw/main/languages_pie_chart.png)
+![Languages Pie Chart](https://github.com/DimFtsCode/DimFtsCode/blob/main/languages_pie_chart.png)
 
