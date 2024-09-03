@@ -103,5 +103,5 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 # :bar_chart: Statistics
-![Languages Pie Chart](https://github.com/DimFtsCode/DimFtsCode/blob/main/languages_pie_chart.png)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimFtsCode&layout=compact&theme=blue-green&hide=css,html,php) &nbsp; &nbsp;
 
