@@ -1,6 +1,6 @@
 - 👋 Hi, I’m <strong>Dimitris</strong>
 - 👀 I’m interested in <em>software development, artificial intelligence, and open-source contributions</em>
-- 🌱 I’m currently learning <span style="color:green;">new programming languages and advanced algorithms</span>
+- 🌱 I’m currently learning <span style="color:green;">advanced python and LLMs</span>
 - 💞️ I’m looking to collaborate on AI interesting projects
 - 📫 How to reach me: <a href="mailto:d_fotopoulos80@yahoo.com">Here</a>
 - 😄 Pronouns: <strong>He/Him</strong>
